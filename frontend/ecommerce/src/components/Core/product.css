@@ -1,0 +1,28 @@
+@media (max-width: 769px) {
+  .related {
+    display: none;
+    margin-left: 1rem;
+  }
+  .related-down {
+    display: block;
+    margin-left: 1rem;
+  }
+  .product {
+    min-width: 90%;
+    margin-left: 1rem;
+  }
+}
+.related-down {
+  display: none;
+  margin-left: 1rem;
+}
+@media (max-width: 769px) {
+  .related-down {
+    display: block;
+    margin-left: 1rem;
+  }
+}
+
+.product {
+  margin: 2rem;
+}

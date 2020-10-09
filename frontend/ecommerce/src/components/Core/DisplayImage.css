@@ -1,0 +1,9 @@
+.product-image {
+  overflow: hidden;
+}
+.product-image img {
+  transition: all 1.5s ease;
+}
+.product-image:hover img {
+  transform: scale(1.5);
+}

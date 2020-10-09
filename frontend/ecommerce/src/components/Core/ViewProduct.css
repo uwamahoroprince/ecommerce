@@ -1,0 +1,24 @@
+.content {
+  background-color: #fff;
+  height: 35rem;
+}
+.image {
+  width: 100%;
+}
+.stars .fa-star {
+  color: #fbe309;
+}
+.btn-green {
+  color: white;
+  background-image: linear-gradient(to right, #20c997, #28a745);
+  letter-spacing: 2px;
+  border-radius: 2rem;
+}
+.btn-green :hover,
+.btn-green:focus {
+  color: #fff;
+  background-image: linear-gradient(to left, #20c997, #28a745);
+}
+.product-name {
+  color: #20c997;
+}
